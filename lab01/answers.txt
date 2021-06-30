@@ -1,13 +1,13 @@
 Exercise 1:
-1.
+1. var == true
 Exercise 2:
-1.
-2.
-3.
-4.
-5.
-6.
+1. var
+2. cgdb
+3. step
+4. b 37 
+5. b 48 i == 4
+6. 
 7.
 Exercise 3:
-1.
-2.
+1. p str->data
+2. p *var
