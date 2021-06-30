@@ -1,13 +1,13 @@
 Exercise 1:
-1. var == true
+1.var
 Exercise 2:
-1. var
-2. cgdb
-3. step
-4. b 37 
-5. b 48 i == 4
-6. 
-7.
+1.compiler warnings
+2.-g
+3.next
+4.break 37 
+5.break 48 if i == 4
+6.info break
+7.delete 5
 Exercise 3:
-1. p str->data
-2. p *var
+1.print ptr->data
+2.print *var
